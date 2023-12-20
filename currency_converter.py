@@ -1,6 +1,6 @@
 """
 This currency converter app uses PyQT6 for the GUI and www.x-rates.com to
-grab the currencies using BeautifulSoup
+grab the currencies using BeautifulSoup.
 """
 
 from PyQt6.QtWidgets import QApplication, QWidget, QVBoxLayout, QLabel, QPushButton, QLineEdit, QComboBox
